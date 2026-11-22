@@ -1,0 +1,1 @@
+It's bored. So I'm learning Go :)

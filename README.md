@@ -1,4 +1,4 @@
-It's bored. So I'm learning Go :)
+I'm bored. So I'm learning Go :)
 
 ## Timeline
 ### 22 Nov 2026
